@@ -15,14 +15,14 @@ namespace QuanLyXeCong.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description page. ĐÂY là trang about giới thiệu về chúng tôi";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your contact page. Đây là trang liên hệ của chúng tôi";
 
             return View();
         }
