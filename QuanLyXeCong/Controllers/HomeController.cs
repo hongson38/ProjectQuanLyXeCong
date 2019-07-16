@@ -22,7 +22,7 @@ namespace QuanLyXeCong.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page. Đây là trang liên hệ của chúng tôi";
+            ViewBag.Message = "Your contact page. Đây là trang liên hệ của chúng tôi hongson37";
 
             return View();
         }
