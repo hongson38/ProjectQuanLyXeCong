@@ -15,7 +15,7 @@ namespace QuanLyXeCong.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page. ĐÂY là trang about giới thiệu về chúng tôi";
+            ViewBag.Message = "Your application description page. ĐÂY là trang about giới thiệu về chúng tôi,test thử bản hongson37 -người dùng phụ";
 
             return View();
         }
